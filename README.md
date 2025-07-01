@@ -8,3 +8,6 @@ All inputs necessary to run this pipeline are included in the `inputs` directory
 
 Pyrho is run from a conda environment, `my-pyrho-env`. The yaml file for this environment can be found in the root directory of this repository. 
 
+Other dependecies: 
+* htslib (htslib/1.15.1)
+* bedtools (bedtools/2.30.0)
