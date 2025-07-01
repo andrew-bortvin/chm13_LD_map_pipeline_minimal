@@ -1,3 +1,5 @@
+#!/bin/bash
+
 for i in {1..26}
 do
 	pop_info=$(sed "${i}q;d" ../inputs/make_table_pop_sizes.txt)
